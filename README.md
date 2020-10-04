@@ -2,13 +2,13 @@
 
 ## Table of Contents
 * Description
-* Walkthrough
+* Walk-through
 
 ## Description
-A walkthrough of a full stack application.
+A walk-through of a full stack application.
 
 ## Walkthrough
-* [Walkthrough](https://drive.google.com/file/d/1qHmwDKEdKEMVpysXh1zxhAdtHEQ0Tqwz/view)
+* Check out the full [walk-through](https://drive.google.com/file/d/1qHmwDKEdKEMVpysXh1zxhAdtHEQ0Tqwz/view) here!
 
 If you have any questions about my portfolio, please message me by email or find me on GitHub!
 * jvarnum3@gmail.com
