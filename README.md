@@ -1,8 +1,8 @@
 # Reverse-Engineering
 
 ## Table of Contents
-* #Description
-* #Walkthrough
+* Description
+* Walkthrough
 
 ## Description
 A walkthrough of a full stack application.
